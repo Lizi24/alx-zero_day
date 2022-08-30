@@ -1,2 +1,2 @@
- My first readme
-This is actually my first work, I love it :alx:
+$git add up_to_date
+$git pull
